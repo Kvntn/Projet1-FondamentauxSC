@@ -22,12 +22,6 @@ void pouls() // Fonction calculant le pouls total
       beat = 1;
       poul += beat;
 
-    }
-    else
-    {
-        beat = 0;
-      poul += beat;
-
-    }
+   }
  }
 }
