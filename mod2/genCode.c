@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "gencode.h"
 
 int gencode(int param, int choice)
 {
